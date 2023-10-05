@@ -74,53 +74,27 @@ hr {
 <body>
     <div class="ShipPhoto">
     <p class="Quation1">1A. What need did you identify? Why was addressing this need important to you? Minimum 100 words*</p>
-
-    <p class="Answer">I am currently working on creating an educational app for kids in the easiest way possible. The educational system in 
-        my country is lacking, and I want to provide a fun and engaging way for children to learn. The app will start with a 'Learn How to 
-        Learn' course, which will be specifically designed for children's understanding. After that, they will learn English and eventually 
-        programming languages based on their interests. The app also includes a chat feature that allows kids to help each other and earn 
-        power points in the process. My plan is to make the app a game, so the kids don't even realize they're learning. At the end of the 
-        game, the winner will be tested on what they have learned and the projects they have designed. Depending on their age, they will 
-        receive an award or scholarship as a reward for their hard work.</p>
+    <p class="Answer">The educational system in my country is lacking, so I am currently working on creating an educational app for kids in the easiest way possible. And I want to provide a fun and engaging way for children to learn. The app will start with a course called "Learn How to Learn",  specifically designed for children's understanding. After that, they will learn English and eventually programming languages based on their interests. The app also includes a chat feature that allows kids to help each other and earn power points in the process. My plan is to make the app a game, so the kids don't even realize they're learning. At the end of the game, the winner will be tested on what they have learned and the projects they have designed. Depending on their age, they will receive an award or scholarship as a reward for their hard work.</p>
 
         <hr>
     <p class="Quation">1B. What specific actions did you take to address the need? If your initiative is unfinished, what actions do you still plan to take? Minimum 150 words*</p>
-    <p class="Answer">Now I'm working on improving my programming skills in Python and Java, as well as my English. I'm also learning about 
-        (UI/UX) and how to make them more attractive to children. I believe that by incorporating fun colors, clear explanations, and popular
-         games, children will be more engaged and able to benefit the most from the application.
-        In order to expand the reach of the application, I plan to build relationships with schools and universities. I believe that by 
-        partnering with these institutions, we can recognize the certificate of completion from the application as a sign of true proficiency 
-        in language and programming skills. 
-        This app will be the easiest for children to use and will provide them with the most benefit. I believe that whoever can complete 
-        this program has a high level of intelligence, as it will require learning a new language, programming in various branches, 
-        and gaining knowledge in commerce.</p>
+    <p class="Answer">To address this need, I have taken several specific actions and will continue to work on my initiative.
+        I have been dedicating time to improving my programming skills in Python and Java, as well as honing my English language proficiency. These skills are essential for developing the educational app effectively.
+        Simultaneously, I am learning about UI/UX design to ensure that the app's user interface is child-friendly and engaging. Incorporating vibrant colors, clear explanations, and elements of popular games will make the learning experience more enjoyable for children.
+        In order to expand the reach of the application, I will build relationships with local schools and universities. Collaborating with these institutions will not only enhance the credibility of the app but also enable us to recognize certificates of completion from the app as a valuable achievement in language and programming skills.
+        I believe that whoever can complete this program has a high level of intelligence.</p>
 
         <hr>
     <p class="Quation">1C. Whether it is finished or unfinished, how do you measure the success of the initiative? Minimum 100 words *</p>
-
-    <p class="Answer">I think it will be a great success. It will attract children because it is both a game and an educational tool at the
-         same time. Since the application focuses on the English language and programming, parents will encourage their children to play this
-          game. Additionally, since the application is still under development, there will be many additional features and resources added in
-           the future to keep pace with the times and enhance its effectiveness. Through regular use of this app, children will gain a great 
-           deal of experience and knowledge, which will ultimately give them a valuable advantage in their childhood.</p>
+    <p class="Answer">I think it will be a great success. It will attract children well because it is a game and an educational tool at the same time. Since the application focuses on the English language and programming, parents will encourage their children to play this game, and since the application is still under development, there will be many additional features and resources that will be added in the future to keep pace with the times and enhance its effectiveness. Through regular use of this app, children will gain a great deal of experience and knowledge, which will ultimately give them a very valuable advantage in their childhood.</p>
 
         <hr>
     <p class="Quation">1D. What difficulties did you encounter? Were you able to overcome them and how? Minimum 100 words *</p>
-
-    <p class="Answer">At first, I had difficulty organizing my time between studying, my family, and the things I wanted to learn in order 
-        to achieve my goals without getting distracted. I am trying to stick to my schedule, and I am still learning about time management. 
-        I am improving and becoming better at sticking to my schedule, but it is still somewhat challenging for me due to distractions. 
-        I make sure to allocate time for entertainment and spending time with my family, cats and friends. I hope to achieve my goal, which
-         is to allocate time for work and time for myself.</p>
+    <p class="Answer">I encountered challenges related to time management and distractions in the early stages of my app's development. Balancing my studies, family commitments, and personal learning goals was initially difficult. However, I have been actively working on improving my time management skills. I have established a structured schedule that allows dedicated time for work and personal life. While it can still be challenging to stay focused, I have learned to prioritize my goals and allocate time effectively. It's an ongoing process, but I am making progress and becoming better and better at managing my time and maintaining a healthy work-life balance.</p>
 
         <hr>
     <p class="Quation">1E. What one lesson did you learn from this experience? What one thing would you do differently if you were to address the need again? Minimum 100 words *</p>
-    <p class="Answer">I used to think that only rich people were successful, but that was just a myth. I have learned to take better care of
-         myself and focus on personal development instead of watching useless series. However, I admit that there are some series that have 
-         had a positive impact on my personality. But I wouldn't change anything if I could go back. because of my past experiences, I have 
-         realized many things, my personality has improved, and I have become more mature. I have learned not to feel so sad when I lose 
-         something because I believe that God has plans for me. And I have come to realize that everything we face is an opportunity for a
-          new beginning.</p>
+    <p class="Answer">From this experience, I've learned two valuable lessons that have profoundly impacted my approach to personal growth and project development. Firstly, I've learned the importance of self-care and continuous personal development. Rather than indulging in unproductive activities like binge-watching TV series, I now prioritize self-improvement. However, I also acknowledge that a healthy balance between relaxation and personal development is crucial for overall well-being. Secondly, I've gained a deeper understanding of the significance of patience and meticulous planning in project execution. Rushing into the development of the educational app led to challenges and errors. To address this need again, I would approach it with a more deliberate and patient mindset, ensuring that each step is meticulously planned and executed to guarantee a high-quality product. In future endeavors, I will maintain a strong commitment to time management, patience, and continuous learning.</p>
 
         <hr>
     <p class="Quation">2A. Who is a leader, past or present, in your local or the global community, that you find inspiring? Which of their achievements inspire you? Minimum 75 words *</p>
@@ -131,7 +105,7 @@ hr {
 
       <hr>
     <p class="Quation">2B. How has this leader shaped your definition of leadership? What is one specific behavior you have adopted because of this leader? Minimum 100 words *</p>
-    <p class="Answer"> He said that he had experienced a life-changing accident when he was young that took away his ability to read and 
+    <p class="Answer">He said that he had experienced a life-changing accident when he was young that took away his ability to read and 
         remember things. Unfortunately, this led to him being bullied by others because of his condition. However, he didn't let that stop 
         him from persevering and learning how to remember things easily and read quickly. Thanks to him, I too am learning how to improve my 
         memory and language skills effortlessly. I appreciate his inspiring story because it helps me stay motivated and not worry about what
